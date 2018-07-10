@@ -11,3 +11,4 @@ Spring Boot
 - GET : /api/techwizards/doc/{docId} : get document by DocId 
 - DELETE : /api/techwizards/doc : Deleted all the document
 - DELETE :/api/techwizards/doc/{docId} : Delete specific doc by ID 
+# In-Memory-Key-Value-Service
