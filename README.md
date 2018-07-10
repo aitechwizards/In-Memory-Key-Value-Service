@@ -1,8 +1,11 @@
 # In Memory (Key-Value Service)
 Spring Boot In Memory Key Value Services
-Tech
-Spring Boot
-
+- Tech
+  - Java 8
+  - Spring Boot 2.X
+  - Spring Data
+  - Angular 6
+  - H2 
 ### URI
 
 - PUT: /api/techwizards/doc : Add document object
